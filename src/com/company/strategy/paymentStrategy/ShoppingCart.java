@@ -1,6 +1,6 @@
-package paymentStrategy;
+package com.company.strategy.paymentStrategy;
 
-import paymentStrategy.domain.Product;
+import com.company.strategy.paymentStrategy.domain.Product;
 
 import java.util.ArrayList;
 import java.util.List;
