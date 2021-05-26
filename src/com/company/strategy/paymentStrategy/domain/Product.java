@@ -1,4 +1,4 @@
-package paymentStrategy.domain;
+package com.company.strategy.paymentStrategy.domain;
 
 public class Product {
     private int price;
